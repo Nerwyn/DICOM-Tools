@@ -15,16 +15,16 @@ Tool used to anonymize a study and it's AI results. AI results being DICOM files
 ```
 inDir
 |───input
-|		original DICOM images (CT, CR, DX, MR, etc)
+|	original DICOM images (CT, CR, DX, MR, etc)
 |───output
 	|───SEG
-	|	|	SEG modality results
+	|	SEG modality results
 	|───PR
-	|	|	PR modality results
+	|	PR modality results
 	|───SR
-	|	|	SR modality results
+	|	SR modality results
 	|───SC
-	|	|	SC modality results
+	|	SC modality results
 
 ```
 
