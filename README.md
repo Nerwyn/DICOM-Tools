@@ -2,7 +2,7 @@
 
 Collection of DICOM tools written in Python
 
-Were written for a previous job which required a lot of manipulation of DICOM data. All company specific information has been removed to make these tools generic release.
+Were written for a previous job which required a lot of manipulation of DICOM data. All company specific information has been removed to make these tools generic for public release.
 
 ## DCMLibrary
 
