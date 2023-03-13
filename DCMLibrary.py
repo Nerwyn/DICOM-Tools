@@ -736,7 +736,7 @@ def queryOracleDb(server, username, password, port, service, table, qIn, qOut):
 	return output
 
 
-def iisreset(server, username=r'local\administrator', password='synapse'):
+def iisreset(server, username=r'local\administrator', password='password'):
 	"""
 	iisreset a server
 	"""
@@ -747,7 +747,7 @@ def iisreset(server, username=r'local\administrator', password='synapse'):
 def netUse(server,
            folder=r'\d$',
            user=r'local\administrator',
-           password='synapse'):
+           password='password'):
 	"""
 	Login to a server / remote machine to access it's filesystem
 	"""
